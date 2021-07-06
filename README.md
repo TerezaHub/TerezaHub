@@ -2,7 +2,7 @@
 
 # Welcome
 
-## I am Tereza Pontes
+## I am Tereza Pontes: https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif 
 :computer: I'm Front-End Developer!
 :house_with_garden: I’m from Brazil.
 :books: I’m currently learning everything.
@@ -11,15 +11,18 @@
 ## About me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/TerezaHub)](https://github.com/TerezaHub)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tereza-pontes/)](https://www.linkedin.com/in/tereza-pontes/)
-[![TerezaHub GitHub stats](https://github-readme-stats.vercel.app/api?username=TerezaHub)](https://github.com/TerezaHub/github-readme-stats)
 
 ## Languages and Tools
+[![TerezaHub GitHub stats](https://github-readme-stats.vercel.app/api?username=TerezaHub)](https://github.com/TerezaHub/github-readme-stats)
 
 <img src= "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px"> 
 <img src= "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width= 50px>
 <img src= "https://commons.wikimedia.org/wiki/File:CSS3_logo_and_wordmark.svg" width=50px>
 <img src= "https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg" width=50px>
 
+- Thanks for visiting.
+
+- Enjoy it!! o/
 <!--
 **TerezaHub/TerezaHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
