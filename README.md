@@ -16,9 +16,9 @@
 ## Languages and Tools
 
 <img src= "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px"> 
-<img src=" https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width= 50px>
-<img src=" https://commons.wikimedia.org/wiki/File:CSS3_logo_and_wordmark.svg" width=50px>
-<img src=" https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg" width=50px>
+<img src= "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width= 50px>
+<img src= "https://commons.wikimedia.org/wiki/File:CSS3_logo_and_wordmark.svg" width=50px>
+<img src= "https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg" width=50px>
 
 <!--
 **TerezaHub/TerezaHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
