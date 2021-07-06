@@ -2,11 +2,13 @@
 
 # Welcome
 
-## I am Tereza Pontes: https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif 
+## I am Tereza Pontes
 :computer: I'm Front-End Developer!
 :house_with_garden: I’m from Brazil.
 :books: I’m currently learning everything.
 :outbox_tray: 2021 Goals: create a new project and find a new job.
+
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ## About me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/TerezaHub)](https://github.com/TerezaHub)
