@@ -10,12 +10,14 @@
 
 ## About me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/TerezaHub)](https://github.com/TerezaHub)
+
 [![TerezaHub GitHub stats](https://github-readme-stats.vercel.app/api?username=TerezaHub)](https://github.com/TerezaHub/github-readme-stats)
+
 <a href="www.linkedin.com/in/tereza-pontes" alt="Linkedin" target="_blank">
   <img src="https://pt.wikipedia.org/wiki/Ficheiro:LinkedIn_Logo.svg"<img src="https://img.shields.io/badge/-Linkedin-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/tereza-pontes"> </a>
   
 ## Languages and Tools
-<img src=" https://pt.m.wikipedia.org/wiki/Ficheiro:Unofficial_JavaScript_logo_2.svg" width= 50px>  
+<img src= "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px"> 
 <img src=" https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width= 50px>
 <img src=" https://commons.wikimedia.org/wiki/File:CSS3_logo_and_wordmark.svg" width=50px>
 <img src=" https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg" width=50px>
